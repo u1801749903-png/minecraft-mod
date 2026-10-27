@@ -1,0 +1,16 @@
+{
+	"key.category.mikucompanion.main": "Miku Companion",
+	"key.mikucompanion.summon": "Call Miku",
+	"key.mikucompanion.dismiss": "Send Miku away",
+	"key.mikucompanion.toggle_wait": "Toggle wait / follow",
+
+	"message.mikucompanion.intro": "Miku Companion loaded. %1$s: call Miku, %2$s: wait/follow, %3$s: send away. Keys can be changed under Options > Controls.",
+	"message.mikucompanion.summon.1": "[Miku] ...H-hello. I'm here.",
+	"message.mikucompanion.summon.2": "[Miku] Oh... did you call me? I'm here.",
+	"message.mikucompanion.callover": "[Miku] I'm coming... one moment.",
+	"message.mikucompanion.dismiss": "[Miku] Understood... see you later.",
+	"message.mikucompanion.wait": "[Miku] I'll wait here. Take your time.",
+	"message.mikucompanion.follow": "[Miku] Okay. I'll stay with you.",
+	"message.mikucompanion.not_here": "Miku isn't here right now. Call her with %1$s.",
+	"message.mikucompanion.no_safe_spot": "[Miku] ...It feels too dangerous here. Maybe somewhere else?"
+}

@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "mikucompanion",
+	"version": "${version}",
+	"name": "Miku Companion",
+	"description": "Rein clientseitige, lokal gerenderte Begleiterin (von Miku Nakano inspiriert), die dem Spieler folgt.",
+	"authors": ["Miku Companion contributors"],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["de.mikucompanion.MikuCompanionClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.1",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

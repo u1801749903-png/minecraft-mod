@@ -1,0 +1,16 @@
+{
+	"key.category.mikucompanion.main": "Miku Companion",
+	"key.mikucompanion.summon": "Miku herbeirufen",
+	"key.mikucompanion.dismiss": "Miku wegschicken",
+	"key.mikucompanion.toggle_wait": "Warten / Folgen umschalten",
+
+	"message.mikucompanion.intro": "Miku Companion ist geladen. %1$s: Miku herbeirufen, %2$s: Warten/Folgen, %3$s: wegschicken. Die Tasten lassen sich unter Optionen > Steuerung ändern.",
+	"message.mikucompanion.summon.1": "[Miku] ...H-hallo. Ich bin da.",
+	"message.mikucompanion.summon.2": "[Miku] Oh... du hast mich gerufen? Ich bin hier.",
+	"message.mikucompanion.callover": "[Miku] Ich komme... einen Moment.",
+	"message.mikucompanion.dismiss": "[Miku] Verstanden... bis später.",
+	"message.mikucompanion.wait": "[Miku] Ich warte hier. Lass dir Zeit.",
+	"message.mikucompanion.follow": "[Miku] Okay. Ich bleibe bei dir.",
+	"message.mikucompanion.not_here": "Miku ist gerade nicht da. Ruf sie mit %1$s.",
+	"message.mikucompanion.no_safe_spot": "[Miku] ...Hier ist es mir zu gefährlich. Vielleicht an einer anderen Stelle?"
+}
